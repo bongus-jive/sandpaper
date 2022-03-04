@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "paper", "count" : 1 },
+    { "item" : "sand2", "count" : 1 }
+  ],
+  "output" : { "item" : "pat_sandpaper", "count" : 1 },
+  "groups" : [ "plain", "all" ],
+  "collectables" : { "cooking" : "pat_sandpaper" }
+}

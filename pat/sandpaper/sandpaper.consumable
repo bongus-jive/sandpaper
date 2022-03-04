@@ -1,0 +1,11 @@
+{
+  "itemName" : "pat_sandpaper",
+  "shortdescription" : "Sandpaper",
+  "description" : "tastey",
+  "rarity" : "Essential",
+  "category" : "preparedFood",
+  "inventoryIcon" : "sandpaper.png",
+  "price" : 100,
+  "maxStack" : 1,
+	"effects" : [["sandstorm"]]
+}
